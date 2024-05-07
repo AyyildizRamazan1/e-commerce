@@ -13,6 +13,7 @@
 @import url(companents/campaign-item.css);
 @import url(companents/blog-item.css);
 @import url(companents/campaign-single.css);
+@import url(companents/single-product/breadcrumb.css);
 
 
 /*! Pages */
@@ -20,3 +21,4 @@
 @import url(pages/contact.css);
 @import url(pages/account.css);
 @import url(pages/card.css);
+@import url(pages/single-product.css);
