@@ -16,7 +16,7 @@
 @import url(companents/single-product/breadcrumb.css);
 @import url(companents/single-product/product-gallery.css);
 @import url(companents/single-product/product-info.css);
-
+@import url(companents/single-product/product-tabs.css);
 
 /*! Pages */
 @import url(pages/home.css);
